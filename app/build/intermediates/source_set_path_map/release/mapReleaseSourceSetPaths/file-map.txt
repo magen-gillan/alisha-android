@@ -1,0 +1,7 @@
+com.alisha.android.app-pngs-0 /home/ubuntu/alisha-android/app/build/generated/res/pngs/release
+com.alisha.android.app-resValues-1 /home/ubuntu/alisha-android/app/build/generated/res/resValues/release
+com.alisha.android.app-packageReleaseResources-2 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.alisha.android.app-packageReleaseResources-3 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.alisha.android.app-release-4 /home/ubuntu/alisha-android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.alisha.android.app-main-5 /home/ubuntu/alisha-android/app/src/main/res
+com.alisha.android.app-release-6 /home/ubuntu/alisha-android/app/src/release/res

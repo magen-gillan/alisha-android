@@ -1,0 +1,2 @@
+com.alisha.android:style/AppTheme = 0x7f020000
+com.alisha.android:drawable/ic_alisha = 0x7f010000
