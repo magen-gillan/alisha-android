@@ -1,6 +1,10 @@
 plugins { id 'com.android.application' }
 
 android { namespace 'com.alisha.android'; compileSdk 35
-    defaultConfig { applicationId 'com.alisha.android'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0.0' }
+    defaultConfig { applicationId 'com.alisha.android'; minSdk 23; targetSdk 35; versionCode 2; versionName '1.0.1' }
     buildTypes { release { minifyEnabled false; shrinkResources false; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro' } }
+}
+
+dependencies {
+    implementation 'androidx.browser:browser:1.8.0'
 }

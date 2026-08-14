@@ -10,4 +10,4 @@
 gradle assembleRelease
 ```
 
-الإصدار المنشور موجود في GitHub Releases باسم `android-v1.0.0`.
+الإصدار المنشور موجود في GitHub Releases باسم `android-v1.0.1`.

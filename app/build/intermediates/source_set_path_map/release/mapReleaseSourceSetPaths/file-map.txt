@@ -1,7 +1,10 @@
-com.alisha.android.app-pngs-0 /home/ubuntu/alisha-android/app/build/generated/res/pngs/release
-com.alisha.android.app-resValues-1 /home/ubuntu/alisha-android/app/build/generated/res/resValues/release
-com.alisha.android.app-packageReleaseResources-2 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
-com.alisha.android.app-packageReleaseResources-3 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
-com.alisha.android.app-release-4 /home/ubuntu/alisha-android/app/build/intermediates/merged_res/release/mergeReleaseResources
-com.alisha.android.app-main-5 /home/ubuntu/alisha-android/app/src/main/res
-com.alisha.android.app-release-6 /home/ubuntu/alisha-android/app/src/release/res
+com.alisha.android.app-core-1.1.0-0 /home/ubuntu/.gradle/caches/8.10.2/transforms/01f1a98025c1964778e759b2d121adc4/transformed/core-1.1.0/res
+com.alisha.android.app-browser-1.8.0-1 /home/ubuntu/.gradle/caches/8.10.2/transforms/b60548a5e99a2914ba0dc988ab88096f/transformed/browser-1.8.0/res
+com.alisha.android.app-annotation-experimental-1.4.0-2 /home/ubuntu/.gradle/caches/8.10.2/transforms/f2230d6ee464293b9c4dad9d4961efd8/transformed/annotation-experimental-1.4.0/res
+com.alisha.android.app-pngs-3 /home/ubuntu/alisha-android/app/build/generated/res/pngs/release
+com.alisha.android.app-resValues-4 /home/ubuntu/alisha-android/app/build/generated/res/resValues/release
+com.alisha.android.app-packageReleaseResources-5 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.alisha.android.app-packageReleaseResources-6 /home/ubuntu/alisha-android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.alisha.android.app-release-7 /home/ubuntu/alisha-android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.alisha.android.app-main-8 /home/ubuntu/alisha-android/app/src/main/res
+com.alisha.android.app-release-9 /home/ubuntu/alisha-android/app/src/release/res
