@@ -1,13 +1,5 @@
-# Alisha Android
+# Alisha
 
-نسخة Android مستقلة من اليشيا. هذا المشروع لا يغيّر مستودع الموقع؛ التطبيق يفتح نسخة Vercel الإنتاجية داخل WebView محسّن للهاتف مع دعم التخزين المحلي والصوت والميكروفون.
+Android app (Kotlin / Jetpack Compose). Build with Android Studio, open the `Android/src` folder.
 
-## البناء
-
-يتطلب Android SDK 35 وGradle 8.10.2 وJava 21.
-
-```bash
-gradle assembleRelease
-```
-
-الإصدار المنشور موجود في GitHub Releases باسم `android-v1.0.1`.
+Licensed under Apache 2.0 (see LICENSE); original copyright notices are preserved in source headers.

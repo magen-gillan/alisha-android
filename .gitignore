@@ -1,0 +1,15 @@
+# Gradle and Android build outputs
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+**/local.properties
+
+# Local build artifacts and signing credentials
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Operating-system metadata
+.DS_Store
